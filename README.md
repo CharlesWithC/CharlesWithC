@@ -5,3 +5,4 @@
 - 🌱 Interested in Golang & React.JS, but got no time to learn 😅
 - 👀 Offline on weekdays, due to boarding school!
 - 📫 Mailbox always open: [me@charlws.com](mailto:me@charlws.com), or any name under `@charlws.com`
+- 📃 Discord: `CharlesWithC#7777`, join my [server](https://discord.gg/wNTaaBZ5qd)
