@@ -1,8 +1,6 @@
 - 👋 Hi, I’m [@CharlesWithC](https://github.com/CharlesWithC)
 - 🚚 Owner of [CHub](https://drivershub.charlws.com) and [charlws.com](https://charlws.com)
-- 💻 Somehow full-stack, but working on backend (api) mainly and forced to code frontend due to life
-- 🐍 Coding Python (FastAPI) and HTML/CSS/JS, knows some C++ due to OI competition
-- 🌱 Learning ReactJS while reworking the frontend of the Drivers Hub
-- 👀 Offline on weekdays, due to boarding school!
+- 💻 Full-stack web developer | Currently in high school, soon studying AI in college
+- 🐍 Coding Python (FastAPI) and Javascript (React), knowing some C++ due to OI competition
 - 📫 Mailbox always open: [me@charlws.com](mailto:me@charlws.com), or any name under `@charlws.com`
-- 📃 Discord: `CharlesWithC#7777`, join my [server](https://discord.gg/wNTaaBZ5qd)
+- 📃 Discord: `cwc.` (main) / `charleswithc` (alt), join my [server](https://discord.gg/wNTaaBZ5qd)
