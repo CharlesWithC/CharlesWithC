@@ -5,6 +5,7 @@
 
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
-- Founder / Developer at [CHub](https://drivershub.charlws.com) (An SaaS for the TruckSim community)
 - Chief Technology Officer at [Mermory](https://mermory.com/)  
 - Integrations Engineer at [American Services Technology](http://localhost:3000/404)
+- Founder / Developer at [CHub](https://drivershub.charlws.com) (An SaaS for the TruckSim community)
+
