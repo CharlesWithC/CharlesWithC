@@ -5,7 +5,8 @@
 
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
-<!-- Planning to do a BASc. ECE + MASc. ECE w/ electives in aero for fun -->
-<!-- If any UofT ECE people see this - email me and lmk what you think -->
 - Chief Technology Officer at [Mermory](https://mermory.com/)
 - Founder / Developer at [CHub](https://drivershub.charlws.com) (An SaaS for the TruckSim community)
+
+<!-- Planning to do a BASc. ECE + MASc. ECE w/ electives in aero for fun -->
+<!-- If any UofT ECE people see this - email me and lmk what you think -->
