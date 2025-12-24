@@ -9,6 +9,7 @@
   - Open sourced since December 2025! See [HubBackend](https://github.com/CharlesWithC/HubBackend) and [HubFrontend](https://github.com/CharlesWithC/HubFrontend).
 - ~~Chief Technology Officer at [Mermory](https://mermory.com/)~~
   - This company possibly no longer exists but it's great memory.
+  - Disclaimer: There's nothing wrong in its tech and I tried to save it but it's out of my pay grade.
 
 <!-- Planning to do a MASc. ECE w/ electives in aero for fun -->
 <!-- Planning to move to Europe b/c TTC sucks too much -->
