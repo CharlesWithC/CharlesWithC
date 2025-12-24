@@ -5,8 +5,11 @@
 
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
-- Chief Technology Officer at [Mermory](https://mermory.com/)
-- Founder / Developer at [CHub](https://drivershub.charlws.com) (An SaaS for the TruckSim community)
+- Founder / Developer at [CHub](https://drivershub.charlws.com) (TruckSim stuff)
+  - Open sourced since December 2025! See [HubBackend](https://github.com/CharlesWithC/HubBackend) and [HubFrontend](https://github.com/CharlesWithC/HubFrontend).
+- ~~Chief Technology Officer at [Mermory](https://mermory.com/)~~
+  - This company possibly no longer exists but it's great memory.
 
-<!-- Planning to do a BASc. ECE + MASc. ECE w/ electives in aero for fun -->
-<!-- If any UofT ECE people see this - email me and lmk what you think -->
+<!-- Planning to do a MASc. ECE w/ electives in aero for fun -->
+<!-- Planning to move to Europe b/c TTC sucks too much -->
+<!-- If any UofT ECE / CIV people see this - email me and lmk what you think -->
