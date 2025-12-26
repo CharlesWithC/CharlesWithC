@@ -6,9 +6,10 @@
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
 - Founder / Developer at [CHub](https://drivershub.charlws.com) (TruckSim stuff)
+  - Technical experiment especially in backend.
   - Open sourced since December 2025! See [HubBackend](https://github.com/CharlesWithC/HubBackend) and [HubFrontend](https://github.com/CharlesWithC/HubFrontend).
-- ~~Chief Technology Officer at [Mermory](https://mermory.com/)~~
-  - This company possibly no longer exists but it's great memory.
+- ~~Chief Technology Officer at [Mermory](https://mermory.com/)~~ (no longer exists)
+  - I managed to keep it a no-slop startup with full self-managed infrastructure while it lasted.
   - Disclaimer: There's nothing wrong in its tech and I tried to save it but it's out of my pay grade.
 
 <!-- Planning to do a MASc. ECE w/ electives in aero for fun -->
