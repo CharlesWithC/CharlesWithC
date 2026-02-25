@@ -2,6 +2,7 @@
 **Software Architect + Engineer + DevOps**  
 - I design logical stuff, automate delivery stuff and architect infrastructure stuff.
 - I write code - mostly for my complicated logical stuff, and sometimes for regular business logic.
+- I manage my own cloud storage, email server, bluesky pds, link shortener, SSO, etc because I am bored.
 
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
@@ -18,7 +19,8 @@
 - Learning Rust because I like it.
   - Possibly building a project with Rust as backend (which is total overkill but interesting)
 - Pivoting to research because I have had enough slop in current-day software engineering.
-  - Likely also pivoting to ECE because I like hardware and touching metal.
+  - Research exchange in EL @ EPFL in Summer 2026.
+  - Likely pivoting to ECE because I like hardware and touching metal.
   - Disclaimer: I acknowledge that good software engineering still exists but it's hard to find.
 
 <!-- Planning to do a MASc. ECE w/ electives in aero for fun -->
