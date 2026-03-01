@@ -9,11 +9,11 @@
   - I would say I am more of an ECE person with an interest in CSC theory stuff.
   - Blatantly speaking CSC education is cooked with how things are structured and how much you can self-study.
 - Founder / Developer at [CHub](https://drivershub.charlws.com) (TruckSim stuff)
-  - Technical experiment especially in backend.
+  - Fun solo technical experiment with an actual community (i.e. market).
   - Open sourced since December 2025! See [HubBackend](https://github.com/CharlesWithC/HubBackend) and [HubFrontend](https://github.com/CharlesWithC/HubFrontend).
 - ~~Chief Technology Officer at Mermory~~ (no longer exists)
   - I managed to keep it a no-slop startup with full self-managed infrastructure while it lasted.
-  - Disclaimer: There's nothing wrong in its tech and I tried to save it but it's out of my pay grade.
+  - Disclaimer: There's nothing wrong in its tech and I tried to save it but it's beyond my pay grade.
  
 **Current Status**
 - Learning Rust because I like it.
