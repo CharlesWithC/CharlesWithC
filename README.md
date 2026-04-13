@@ -2,7 +2,7 @@
 **Software & Infrastructure Architect + Engineer**  
 - I design logical stuff, automate delivery stuff and architect infrastructure stuff.
 - I write code - mostly for my complicated logical stuff, and sometimes for regular business logic.
-- I manage my own cloud storage, email server, bluesky pds, link shortener, SSO, etc because I am bored.
+- I manage my own cloud storage, email server, BlueSky PDS, GitLab instance, SSO, etc because I am bored.
 
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
@@ -16,8 +16,11 @@
   - Disclaimer: There's nothing wrong in its tech and I tried to save it but it's beyond my pay grade.
  
 **Current Status**
-- Learning Rust because I like it.
-  - Possibly building a project with Rust as backend (which is total overkill but interesting)
+- Building some internal monitoring tool with Rust.
+  - [GitHub Repo](https://github.com/CharlesWithC/secmon) / [Upstream Repo](https://git.charlws.com/charles/secmon)
+- Operating [CHub - Drivers Hub](https://chub.page/) as the business + infrastructure guy.
+  - This is more like a *business experiment*, similar to the *technical experiment* in the open core.
+  - Separating the original project into open core + commercial service made business decisions easier to justify.
 - Pivoting to research because I have had enough slop in current-day software engineering.
   - Research exchange in EL @ EPFL in Summer 2026.
   - Likely pivoting to ECE because I like hardware and touching metal.
