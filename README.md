@@ -2,7 +2,8 @@
 **Software & Systems Architect + Engineer**  
 - I design logical stuff, automate delivery stuff and architect infrastructure stuff.
 - I write code - mostly for my complicated logical stuff, and sometimes for regular business logic.
-- I manage my own cloud storage, email server, BlueSky PDS, GitLab instance, SSO, etc because I am bored.
+- I manage my own cloud storage, email server, BlueSky PDS, [GitLab instance](https://git.charlws.com), SSO, etc because I am bored.
+  - Note: Since I self-host GitLab, most of my activities occur there, and many repos on GitHub are mirrors from GitLab.
 
 **Education / Experience**
 - BSc. Computer Science at University of Toronto
