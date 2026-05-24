@@ -17,15 +17,16 @@
   - Disclaimer: There's nothing wrong in its tech and I tried to save it but it's beyond my pay grade.
  
 **Current Status**
-- Building some internal monitoring tool with Rust.
-  - [GitHub Repo](https://github.com/CharlesWithC/secmon) / [Upstream Repo](https://git.charlws.com/charles/secmon)
+- On choice of programming language,
+  - Rejects to start any new project with Python or Javascript.
+  - Learned Rust recently by building a systems tool called [secmon](https://github.com/CharlesWithC/secmon).
+  - Planning to learn Go but haven't found a suitable project to work on.
 - Operating [CHub - Drivers Hub](https://chub.page/) as the business + infrastructure guy.
   - This is more like a *business experiment*, similar to the *technical experiment* in the open core.
   - Separating the original project into open core + commercial service made business decisions easier to justify.
-- Pivoting to research because I have had enough slop in current-day software engineering.
-  - Research exchange in EL @ EPFL in Summer 2026.
-  - Likely pivoting to ECE because I like hardware and touching metal.
-  - Disclaimer: I acknowledge that good software engineering still exists but it's hard to find.
+- Pivoting to research and ECE,
+  - Research exchange at [ESL-EPFL](https://github.com/esl-epfl/) from May to August (2026).
+  - Reason: Customer-facing SWE is dead. Backend/Infra still fun but mostly explored. Embedded/Systems pending exploration.
 
 <!-- Planning to do a MASc. ECE w/ electives in aero for fun -->
 <!-- Planning to move to Europe b/c TTC sucks too much -->
