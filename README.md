@@ -18,7 +18,7 @@
  
 **Current Status**
 - On choice of programming language,
-  - Rejects to start any new project with Python or Javascript.
+  - Rejects to start any new project with Python or JavaScript.
   - Learned Rust recently by building a systems tool called [secmon](https://github.com/CharlesWithC/secmon).
   - Planning to learn Go but haven't found a suitable project to work on.
 - Operating [CHub - Drivers Hub](https://chub.page/) as the business + infrastructure guy.
