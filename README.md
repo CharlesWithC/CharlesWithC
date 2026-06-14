@@ -10,9 +10,6 @@
   - Salvaged and open-sourced [mermory-creator-studio](https://github.com/CharlesWithC/mermory-creator-studio).
  
 **Current Status**
-- Customer-facing SWE is dead. Backend/Infra is still fun but mostly explored. Embedded/Systems pending exploration.
-- Rejects Python / Javascript. Learned Rust by building [secmon](https://github.com/CharlesWithC/secmon). Looking into Golang.
-- Operating [CHub - Drivers Hub](https://chub.page/).
-  - Hibernated business experiment that spun off the open-sourced core.
-- Research exchange at [ESL-EPFL](https://github.com/esl-epfl/) from May to August (2026).
-  - Active open-source-able projects: [libposit](https://github.com/CharlesWithC/libposit) & [llvm-xposit](https://github.com/CharlesWithC/llvm-xposit).
+- Customer-facing SWE is dead. Backend/Infra mostly explored. Embedded/Systems pending exploration.
+- Operating [CHub - Drivers Hub](https://chub.page/) - A hibernated business experiment that spun off the open-source core.
+- Ongoing research exchange at [ESL-EPFL](https://github.com/esl-epfl/): [libposit](https://github.com/CharlesWithC/libposit), [llvm-xposit](https://github.com/CharlesWithC/llvm-xposit) and [Cough-E](https://github.com/CharlesWithC/Cough-E).
