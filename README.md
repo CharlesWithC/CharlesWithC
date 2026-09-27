@@ -13,5 +13,6 @@
   - Salvaged and open-sourced [mermory-creator-studio](https://github.com/CharlesWithC/mermory-creator-studio).
  
 **Current Status**
-- Customer-facing SWE is dead. Backend/Infra mostly explored. Embedded/Systems pending exploration.
-- Operating [CHub - Drivers Hub](https://chub.page/) - A hibernated business experiment that spun off the open-source core.
+- Customer-facing SWE is dead. Backend/Infra mostly explored. Embedded/Chips are very cool.
+- Captaining D Team of University of Toronto Rocket League Club.
+- Deciding what to do postgrad. Most likely masters in Europe.
