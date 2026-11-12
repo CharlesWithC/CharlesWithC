@@ -14,5 +14,11 @@
  
 **Current Status**
 - Customer-facing SWE is dead. Backend/Infra mostly explored. Embedded/Chips are very cool.
-- Captaining D Team of University of Toronto Rocket League Club.
-- Deciding what to do postgrad. Most likely masters in Europe.
+- Side projects
+  - Rust is one of the only sane programming languages. [secmon](https://github.com/CharlesWithC/secmon) is an experiment and demonstration.
+  - Still waiting for an opportunity to learn go.
+- Not actively working on any major projects
+  - Admin and Team Captain at University of Toronto Rocket League Club.
+  - Development Team Member at [Minor League Esports](https://github.com/Minor-League-Esports).
+- Often times in existential crisis
+  - Feel free to come say hi if you can find my *real* contact method.
